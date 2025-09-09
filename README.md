@@ -22,14 +22,3 @@ Personal website of Seham Kafafi
             </ul>
         </nav>
     </header>
-
-    <main>
-        <h2>About Me</h2>
-        <p>Welcome! This is my personal academic website.</p>
-    </main>
-
-    <footer>
-        <p>&copy; 2025 My Name</p>
-    </footer>
-</body>
-</html>
